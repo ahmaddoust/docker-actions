@@ -11,5 +11,5 @@ jobs:
       - name: "hello-action"
         uses: ./.github/actions/hello-world
         with: 
-          thirdGreeting: "a third greeting"
+          thirdGreeting: "a third greetings"
         
