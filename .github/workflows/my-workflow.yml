@@ -2,7 +2,7 @@ name: Docker Actions
 
 on:
   pull_request:
-    types: [first-cat-fact]
+    types: first-cat-fact
 
 jobs:
   action:
