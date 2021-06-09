@@ -15,7 +15,7 @@ inputs:
 
   thirdGreeting:
     description: "a third greeting"
-    required: false
+    required: true
 
 runs:
   using: "docker"
