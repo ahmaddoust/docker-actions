@@ -2,7 +2,7 @@ name: Docker Actions
 
 on:
   pull_request:
-    types: [labeled]
+    types: 'test'
 
 jobs:
   action:
